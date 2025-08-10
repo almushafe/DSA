@@ -277,6 +277,12 @@ function BubbleSort($arr){
   
   echo $n ;
 }
+$arr = array(78,9,2,19,0,1);
+$sortarr = BubbleSort($arr);
+// print_r ($arr);
+print_r ($sortarr);
+
+?>
 ```
 ## 📌 Scala Code Example
 ```Scala
@@ -305,9 +311,3 @@ object Main {
 	}
 }
 
-$arr = array(78,9,2,19,0,1);
-$sortarr = BubbleSort($arr);
-// print_r ($arr);
-print_r ($sortarr);
-
-?>
