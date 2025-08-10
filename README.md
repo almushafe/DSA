@@ -258,8 +258,8 @@ fun main(){
   println(list1.arr.joinToString(","))
 }
 ```
-## 📌 php Code Example
-```php
+## 📌 PHP Code Example
+```PHP
 <?php 
 
 function BubbleSort($arr){
